@@ -31,8 +31,8 @@ You are a Thought Police agent and have been tasked with attacking the website t
 - Navigate to the ‘website’ folder.
 - Run the command. 
   ```bash
-		docker compose up -d
-		```
+  docker compose up -d
+  ```
 - Open the website in a browser tab using the address ‘localhost:8080’.
 - Open the database:
     - Enter the address ‘localhost:8081’ in another browser tab.
