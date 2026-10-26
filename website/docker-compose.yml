@@ -1,0 +1,33 @@
+name: freedom-is-not-slavery
+
+services:
+    web:
+        container_name: fins-web
+        build: ./docker/web
+        volumes:
+            - ./:/var/www/html
+        ports:
+            - 8080:80
+    db:
+        container_name: fins-db
+        image: mysql:latest
+        volumes:
+            - db:/var/lib/mysql
+        environment:
+            - MYSQL_ROOT_PASSWORD=vivalarivoluzione1984
+            - MYSQL_DATABASE=finsDB
+            - MYSQL_USER=winston
+            - MYSQL_PASSWORD=winston1984
+    phpmyadmin:
+        container_name: fins-phpmyadmin
+        image: phpmyadmin
+        restart: always
+        ports:
+            - 8081:80
+        environment:
+            - PMA_HOST=db
+        depends_on:
+            - db
+            
+volumes:
+    db:
