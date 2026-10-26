@@ -11,7 +11,7 @@ It imagines a scenario in which members of the Brotherhood decide to reunite aft
 They create a website designed to gather support through two forms: one form is for user registration, where users are asked to enter their first name, last name, an email address for contact, a username to log in and post messages, a password, and a message to send; the other form is for already registered users, allowing them to send another
 message by entering their username and password.  
 To encourage people to participate, the messages sent are published on the site along with the usernames, excluding other user information, in order to ensure their privacy. 
-<br>
+<br><br>
 You are a Thought Police agent and have been tasked with attacking the website to exfiltrate the revolutionaries’ data, uncover their identities, and stop the attempted revolution.
 
 <p align="center">
