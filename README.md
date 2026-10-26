@@ -15,7 +15,7 @@ To encourage people to participate, the messages sent are published on the site 
 You are a Thought Police agent and have been tasked with attacking the website to exfiltrate the revolutionaries’ data, uncover their identities, and stop the attempted revolution.
 
 <p align="center">
-  <img src="FreedomIsNotSlavary.jpg" alt="Freedom Is Not Slavary" width="400">
+  <img src="FreedomIsNotSlavery.jpg" alt="Freedom Is Not Slavery" width="400">
 </p>
 
 > [!WARNING]  
