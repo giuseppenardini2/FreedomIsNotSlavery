@@ -12,7 +12,7 @@ They create a website designed to gather support through two forms: one form is 
 message by entering their username and password.  
 To encourage people to participate, the messages sent are published on the site along with the usernames, excluding other user information, in order to ensure their privacy. 
 <br><br>
-You are a Thought Police agent and have been tasked with attacking the website to exfiltrate the revolutionaries’ data, uncover their identities, and stop the attempted revolution.
+You are an agent of the Thought Police, and you have been assigned the task of attacking the website to exfiltrate the revolutionaries' data via an SQL injection, uncover their identities, and stop the attempted revolution.
 
 > [!WARNING]  
 > FreedomIsNotSlavery is a university project focused on creating a site on which test SQL injection. 
