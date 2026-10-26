@@ -29,7 +29,7 @@ You are a Thought Police agent and have been tasked with attacking the website t
 
 - Open the terminal.
 - Navigate to the ‘website’ folder.
-- Run the command. 
+- Run the command:
   ```bash
   docker compose up -d
   ```
@@ -37,8 +37,8 @@ You are a Thought Police agent and have been tasked with attacking the website t
 - Open the database:
     - Enter the address ‘localhost:8081’ in another browser tab.
 	- Log in to PhpMyAdmin by entering:
-        - Username: winston
-        - Password: winston1984
+        - Username: *winston*
+        - Password: *winston1984*
     - Import the database file (‘finsDB.sql’) located in the ‘Database’ folder
 - The project is ready, glhf : )
 
