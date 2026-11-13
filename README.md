@@ -44,5 +44,5 @@ You are an agent of the Thought Police, and you have been assigned the task of a
 
 ## License
 
-*Copyright© 2026 Giuseppe Nardini Francesco Puliti Sara Marini*\
+*Copyright© 2026 Giuseppe Nardini, Francesco Puliti and Sara Marini*\
 This program is licensed under the [AGPL-3.0](LICENSE) license.
